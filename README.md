@@ -14,7 +14,8 @@ In particolare:
   svolgere per esercitarvi ancora di più. Dopo circa una settimana
   dall'assegnazione di tali esercizi, caricherò le soluzioni di quest'ultimi.
 
-Le esercitazioni si svolgono ogni venerdì, alle ore 14.00 in aula 18.
+> [!IMPORTANT]
+> Le esercitazioni si svolgono ogni venerdì, alle ore 14.00 in aula 18.
 
 Link al canale telegram, dove pubblicherò tutte le comunicazioni riguardo le
-esercitazioni: [](https://t.me/tutorprogrammazione2425)
+esercitazioni: https://t.me/tutorprogrammazione2425
