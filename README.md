@@ -17,4 +17,4 @@ In particolare:
 Le esercitazioni si svolgono ogni venerdì, alle ore 14.00 in aula 18.
 
 Link al canale telegram, dove pubblicherò tutte le comunicazioni riguardo le
-esercitazioni: []()
+esercitazioni: [](https://t.me/tutorprogrammazione2425)
