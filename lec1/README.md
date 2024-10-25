@@ -7,16 +7,14 @@ Scrivere un programma che date due stringe in input, in output stampa solo i
 caratteri che la prima stringa ha in comune con la seconda stringa.
 Utilizzare le funzioni.
 
-#### Soluzione
-[Soluzione](src/filter.py)
+**[Soluzione](src/filter.py)**
 
 ### Esercizio 2
 Un numero perfetto è un numero naturale uguale alla somma dei suoi divisori
 positivi, escluso sé stesso. Scrivere una funzione che verifichi se un numero è
 perfetto oppure no.
 
-#### Soluzione
-[Soluzione](src/perfetto.py)
+**[Soluzione](src/perfetto.py)**
 
 ### Esercizio 3
 Il [ROT-13](https://en.wikipedia.org/wiki/ROT13) è un semplice cifrario monoalfabetico,
@@ -28,8 +26,7 @@ Scrivere una funzione in grado di criptare, usando il cifrario ROT-13 una string
 _Nota: utilizzare l'alfabeto inglese (26 lettere) e per semplicità considerare
 solamente le lettere minuscole (no maiuscole o numeri)._
 
-#### Soluzione
-[Soluzione](src/rot13.py)
+**[Soluzione](src/rot13.py)**
 
 ## Esercizi per casa
 
