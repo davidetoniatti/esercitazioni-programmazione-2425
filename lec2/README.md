@@ -18,6 +18,9 @@ Elenco parole:  ['dare', 'fare', 'andare', 'mangiare', 'dormire', 'piacere', 'sa
 Parola in input:  volare
 Le rime corrispondenti alla parola volare sono le seguenti: dare, fare, andare, mangiare, salutare
 ```
+
+**[Soluzione](src/rimario.py)**
+
 ### Esercizio
 Scrivere una funzione in Python che, data una lista di numeri, restituisce il
 secondo numero più grande all'interno della lista.
@@ -27,6 +30,9 @@ Esempio:
 Numeri:  [30, 20, 20, 30, 30, 20]
 Secondo numero più grande:  20
 ```
+
+**[Soluzione](src/second-largest.py)**
+
 ### Esercizio
 Scrivere una funzione in Python che, date una lista di interi, genera un'altra
 lista contenente solamente gli elementi duplicati.
@@ -42,6 +48,8 @@ Output : output_list = [20, 30, -20, 60]
 Input :  list = [-1, 1, -1, 8]
 Output : output_list = [-1]
 ```
+
+**[Soluzione](src/duplicati.py)**
 
 ## Esercizi per casa
 
