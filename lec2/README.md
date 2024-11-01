@@ -69,10 +69,16 @@ Input: [3, 11, [4,3], [], 4, [1], 18]
 Output: [3, 11, [4,3], 4, [1], 18]
 ```
 
+**[Soluzione](src/empty-list.py)**
+
 ### Esercizio
 Scrivere una funzione in Python che, date due liste `l1` e `l2`, restituisce
 `True` se ogni elemento di `l1` è contenuto anche in `l2`, `False` altrimenti.
 
+**[Soluzione](src/intersect.py)**
+
 ### Esercizio
 Scrivere una funzione in Python che, date due liste `l1` e `l2`, restituisce
 una lista senza duplicati che è l'intersezione delle due liste `l1` e `l2`.
+
+**[Soluzione](src/subset.py)**

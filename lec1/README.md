@@ -48,6 +48,8 @@ solamente le lettere minuscole (no maiuscole o numeri)._
 *Suggerimento: è sufficiente fare qualche modifica al codice scritto per
 risolvere l'esercizio 3.*
 
+**[Soluzione](src/rot13-decrypt.py)**
+
 ### Esercizio 2
 Il [Cifrario di Cesare](https://en.wikipedia.org/wiki/Caesar_cipher) è un
 cifrario a sostituzione monoalfabetica, in cui ogni lettera del messaggio
@@ -65,6 +67,8 @@ solamente le lettere minuscole (no maiuscole o numeri)._
 
 *Suggerimento: sembra più semplice risolvere l'esercizio usando l'aritmeitca
 modulare, come abbiamo fatto per l'esercizio 3.*
+
+**[Soluzione](src/caesar-cipher.py)**
 
 ### Esercizio 3
 La [Congettura di Collatz](https://en.wikipedia.org/wiki/Collatz_conjecture) è
@@ -92,3 +96,5 @@ $$
 $$
 
 dunque l'algoritmo termina dopo $8$ iterazioni.
+
+**[Soluzione](src/collatz.py)**
