@@ -13,6 +13,8 @@ a)`; se `key` è `None`, restitusce il minimo nella lista.
 _Suggerimento: vedere la funzione `Max` in `lezione_10.py` nel repository del
 professore_
 
+**[Soluzione](src/my_min.py)**
+
 ### Esercizio
 Scrivere una funzione in python che, data una lista di interi in input, esegue
 le seguenti operazioni:
@@ -33,6 +35,8 @@ Si crea la tupla: (87, 45, 41, 65, 99)
 Output: min: 41, max: 99
 ```
 
+**[Soluzione](src/modify.py)**
+
 ### Esercizio
 
 Scrivere una funzione in python che, date due stringhe in input, restituisce
@@ -47,6 +51,8 @@ parola `p2` e viceversa.
 Le parole `riso` e `orsi` sono anagrammi
 Le parole `cattive` e `civetta` sono anagrammi
 ```
+
+**[Soluzione](src/anagrams.py)**
 
 ### Esercizio
 
@@ -64,3 +70,5 @@ Output : [1,2,3,4,5,6,7,8,9]
 Input: ["casa",[4,5,6],3,['a',8,'l'], "programmazione"]
 Output : ["casa", 4, 5, 6, 3, 'a', 8, 'l', "programmazione"]
 ```
+
+**[Soluzione](src/flatten.py)**
