@@ -49,6 +49,8 @@ Input: [0,1,2,3,4,5]
 Output: -1
 ```
 
+**[Soluzione](src/find_smallest_missing.py)
+
 ### Esercizio
 
 In una lista c'è un intruso: *osvaldo*.
@@ -67,6 +69,8 @@ Input: [1,2,3,[1,2,3,4],[1,5,4,2,[1,2,10],4,3,2]]
 Output: False
 ```
 
+**[Soluzione](src/find_osvaldo.py)**
+
 ### Esercizio
 
 Scrivere una funzione in Python che, data una lista $a$ di numeri ordinati in
@@ -80,6 +84,8 @@ Input: a = [1, 3, 4, 4, 4, 4, 5, 7, 7, 7, 7, 10, 10, 12, 12, 15, 17],
        k = 10
 Output:  11
 ```
+
+**[Soluzione](src/binary_search_left.py)**
 
 ### Esercizio
 
@@ -95,3 +101,5 @@ Input: a = [1, 3, 4, 4, 4, 4, 5, 7, 7, 7, 7, 10, 10, 12, 12, 15, 17],
        k = 4
 Output:  prima occorrenza: posizione 2; ultima occorrenza: posizione 5
 ```
+
+**[Soluzione](src/first_last_occurrence.py)**
