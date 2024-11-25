@@ -1,4 +1,4 @@
-# Esercitazione 2
+# Esercitazione 2 - 25/10/2024
 
 ## Svolti in aula
 

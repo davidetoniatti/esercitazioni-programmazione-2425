@@ -1,6 +1,8 @@
-# Esercitazione 3
+# Esercitazione 3 - 01/11/2024
 
-## No esercizi svolti in aula (giorno di festa, università chiusa)
+## Svolti in aula
+
+- Non c'è stata esercitazione (giorno di festa, università chiusa)
 
 ## Esercizi per casa
 

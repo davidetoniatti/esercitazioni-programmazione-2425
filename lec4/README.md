@@ -1,6 +1,8 @@
-# Esercitazione 4
+# Esercitazione 4 - 08/11/2024
 
-## Svolti in aula (a distanza)
+## Svolti in aula
+
+- Esercitazione solamente a distanza.
 
 ### Esercizio
 

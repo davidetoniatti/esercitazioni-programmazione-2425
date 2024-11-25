@@ -1,4 +1,4 @@
-# Esercitazione 5
+# Esercitazione 5 - 15/11/2024
 
 ## Visti in aula
 
@@ -54,6 +54,8 @@ se la stringa è palindroma, `False` altrimenti;
 - Scrivere una lambda function che prenda una lista di tuple e restituisca
 una lista di tuple ordinate per il secondo elemento di ciascuna tupla;
 
+**[Soluzione](src/lambda.py)**
+
 ### Esercizio
 
 Scrivere una funzione in Python che, date due liste `l1` e `l2` **entrambe ordinate**,
@@ -73,6 +75,8 @@ l2 =  [1, 3, 6, 7, 22, 23, 45, 99]
 Output:  [5, 8, 12, 67, 123]
 ```
 
+**[Soluzione](src/difference_sorted.py)**
+
 ### Esercizio
 
 Scrivere una funzione in Python che, date due liste `l1` e `l2` **entrambe ordinate**,
@@ -85,6 +89,8 @@ Esempio:
 Input: l1 = [1, 4, 7, 8, 10] l2 = [2, 3, 9]
 Output: l1 = [1, 2, 3, 4, 7] l2 = [8, 9, 10]
 ```
+
+**[Soluzione](src/local_merge.py)**
 
 ### Esercizio
 
@@ -107,3 +113,5 @@ Hanoi è $2^n-1$, dove $n$ è il numero totale di dischi.
 Scrivere una funzione in Python che risolva il rompicapo: ad esempio, inizialmente
 i dischi si trovano tutti sulla prima asta; al termine della funzione, tutti i
 dischi devono trovarsi sulla terza asta.
+
+**[Soluzione](src/hanoi.py)**
