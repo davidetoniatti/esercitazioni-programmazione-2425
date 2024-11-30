@@ -24,6 +24,8 @@ l2 =  [1, 3, 6, 7, 22, 23, 45, 99]
 Output:  [5, 8, 12, 67, 123]
 ```
 
+**[Soluzione](src/difference.py)**
+
 ### Esercizio
 
 Scrivere una funzione in Python che, dato un dizionario `d` con all'interno
@@ -35,6 +37,8 @@ Esempio:
 Input: {'a': [2, 4, 5, 7], 'b': [6, 2, 4, 5], (2, 'A'): [4, 5, 6]}
 Output: {18: 'a', 17: 'b', 15: (2, 'A')}
 ```
+
+**[Soluzione](src/sumlist-as-key.py)**
 
 ### Esercizio
 
@@ -54,3 +58,5 @@ Input: words = ["cane", "gatto", "tartaruga", "canto"]
     letters = "anetougcr"
 Output: cane, gatto, tartaruga, canto
 ```
+
+**[Soluzione](src/words.py)**
