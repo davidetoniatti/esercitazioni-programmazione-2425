@@ -42,16 +42,18 @@ Esempio:
 Input: [0,1,2,3,4,5,7,9,11]
 Output: 6
 ```
+
 ```
 Input: [1,2,3,5,7,9,20]
 Output: 0
 ```
+
 ```
 Input: [0,1,2,3,4,5]
 Output: -1
 ```
 
-**[Soluzione](src/find_smallest_missing.py)
+\*\*[Soluzione](src/find_smallest_missing.py)
 
 ### Esercizio
 
@@ -66,6 +68,7 @@ Esempio:
 Input: [1,2,3,[1,2,3,4],[1,5,4,2,[1,2,"osvaldo"],4,3,2]]
 Output: True
 ```
+
 ```
 Input: [1,2,3,[1,2,3,4],[1,5,4,2,[1,2,10],4,3,2]]
 Output: False

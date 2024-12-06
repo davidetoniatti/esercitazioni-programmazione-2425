@@ -60,6 +60,8 @@ Input: {1.4, 2.3, 2.33, 5.66, 1, 4.5}
 Output: {4.5, 1, 5.66, 2.33, 2.3, 1.4}
 ```
 
+**[Soluzione](src/copy_array_inverse.c)**
+
 ### Esercizio
 Scrivere una funzione in C che, dati due array `a` e `b` di `int` di lunghezza
 rispettivamente `n` e `m`, crea un'array che è la **concatenazione** di `a` e `b`,
@@ -71,6 +73,8 @@ Esempio:
 Input: int a[] = {1, 2, 3, 4, 5}; int b[] = {6, 7, 8, 9};
 Output: {1, 2, 3, 4, 5, 6, 7, 8, 9}
 ```
+
+**[Soluzione](src/concatenate.c)**
 
 ### Esercizio
 Scrivere una funzione in C che, dato un'intero `n`, crea un'array di
@@ -84,3 +88,5 @@ Output: {1, 1, 2, 6, 24, 120}
 ```
 dove in posizione `0` è memorizzato `0! = 1`, in posizione `1` è memorizzato
 `1! = 1`, in posizione `2`: `2! = 2`, in posizione `3`: `3! = 6`,... e cosi via.
+
+**[Soluzione](src/factorial_array.c)**
