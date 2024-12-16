@@ -93,14 +93,15 @@ Input: int s[] = "Algoritmi";
 Output: x.a = {0,3,5,8}, x.n = 4
 ```
 
+**[Soluzione](src/posizione_vocali.c)**
+
 ### Esercizio
 
-Scrivere una funzione in C che, date in input due stringhe `a` e `b` con le
-rispettive lunghezze `n` e `m`, crea una nuova stringa che è la **concatenazione**
-delle due stringhe. In particolare, se `a` precede o è uguale a `b`, allora la
-concatenazione deve avere prima la stringa `a` e poi `b`; viceversa, se
-`b` precede `a`, allora la concatenazione deve avere prima la stringa `b` e poi
-`a`.
+Scrivere una funzione in C che, date in input due stringhe `a` e `b`, crea una
+nuova stringa che è la **concatenazione** delle due stringhe.
+In particolare, se `a` precede o è uguale a `b`, allora la concatenazione deve
+avere prima la stringa `a` e poi `b`; viceversa, se `b` precede `a`, allora la
+concatenazione deve avere prima la stringa `b` e poi `a`.
 
 Esempio:
 
@@ -108,6 +109,8 @@ Esempio:
 Input: char *a = "prolog", char *b = "programmazione"
 Output: char *p = "programmazioneprolog"
 ```
+
+**[Soluzione](src/concatenate_string.c)**
 
 ### Esercizio
 
@@ -122,3 +125,5 @@ Esempio:
 Input: char *a = "Programmazione dei calcolatori", int n = , int i = 4, int j = 18
 Output: char *p = "rammazione dei"
 ```
+
+**[Soluzione](src/extract_substring.c)**
