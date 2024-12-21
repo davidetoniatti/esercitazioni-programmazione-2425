@@ -56,6 +56,8 @@ Input:  int a[] = {2, 5, 6, 8, 8, 8, 8, 10, 12, 13};
 Output: L = {2, 5, 6, 13};
 ```
 
+**[Soluzione](src/intersect.c)**
+
 ### Esercizio
 
 Scrivere una funzione in C che, dati in input una `lista L` e una stringa `s`,
@@ -74,3 +76,5 @@ Input: lista L = {2, 3.4, "python", 77, "C", "java", 23};
         char s[] = "linguaggio";
 Output: lista L = {2, 3.4, "linguaggiopython", 77, "Clinguaggio", "javalinguaggio", 23}
 ```
+
+**[Soluzione](src/concatenate_string_in_list.c)**
