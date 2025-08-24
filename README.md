@@ -15,7 +15,4 @@ In particolare:
   dall'assegnazione di tali esercizi, caricherò le soluzioni di quest'ultimi.
 
 > [!IMPORTANT]
-> Le esercitazioni si svolgono ogni venerdì, alle ore 14.00 in aula 18.
-
-Link al canale telegram, dove pubblicherò tutte le comunicazioni riguardo le
-esercitazioni: https://t.me/+JT34o9AC4rA5NmU0
+> Le esercitazioni si svolgono ogni venerdì, ~~alle ore 14.00 in aula 18~~ **le esercitazioni sono terminate**.
